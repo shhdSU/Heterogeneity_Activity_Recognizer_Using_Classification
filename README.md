@@ -5,6 +5,8 @@ This project is done during SDAIA Academy Bootcamp as a part of METIS course req
 - [**Project MVP**](https://github.com/shhdSU/Heterogeneity_Activity_Recognizer_Using_Classification/blob/main/Heterogeneity_Activity_Recognizer_Using_Classification_MVP.md)
 - [**Images Folder:**](https://github.com/shhdSU/Heterogeneity_Activity_Recognizer_Using_Classification/tree/main/Image) to put the images used within this repo
 - [**Final Report**](https://github.com/shhdSU/Heterogeneity_Activity_Recognizer_Using_Classification/blob/main/Heterogeneity_Activity_Recognizer_Using_Classification_Final_Report.md)
+- [**Jupyter Notebook:**](https://github.com/shhdSU/Heterogeneity_Activity_Recognizer_Using_Classification/tree/main/Jupyter_Notebooks) contains 3 Jupyter Notebooks for the project
+
 ### Contact Me
 For any questions please contact me <br/>
 - 📧 **Email :** shhd.kaltham@gmail.com <br/>
